@@ -13,6 +13,18 @@
 					<key>url</key>
 					<string>https://github.com/shengyangyu/TabbarDisplayFix/blob/master/EFQRCode.iOS.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://www.baidu.com/img/bd_logo1.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://www.baidu.com/img/bd_logo1.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -23,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>微chat</string>
+				<string>wechat</string>
 			</dict>
 		</dict>
 	</array>
